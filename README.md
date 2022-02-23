@@ -13,7 +13,7 @@ Creating and Compiling the new token, crowdsale contract and deployer |
 
 ![alt text](https://github.com/smerlingcustodio/challenge4/blob/main/Evaluation%20Evidence/Crowdsale.png)  | ![alt text](https://github.com/smerlingcustodio/challenge4/blob/main/Evaluation%20Evidence/KaseiCoin.png)
 
-![alt text](https://gifs.com/gif/LZB0XA)
+![alt text](https://github.com/smerlingcustodio/challenge4/blob/main/Evaluation%20Evidence/compileGif.gif)
 
 
 Deploying the contracts and testing the crowdsale transfer of tokens |![alt text](https://github.com/smerlingcustodio/challenge4/blob/main/Evaluation%20Evidence/Deploying_test_Transactions.webm)
