@@ -20,3 +20,5 @@ Deploying the contracts and testing the crowdsale transfer of tokens |![alt text
 
 
 
+This is a sample how to embed pics on a read me:
+![This is an alternate text to the pic](https://www.bankrate.com/2022/07/07151503/Cryptocurrency-statistics.jpeg?auto=webp&optimize=high&crop=16:9&width=912)
